@@ -1,0 +1,12 @@
+D:\Documents\GitHub\DMXControl\Interface\bin\Debug\Interface.exe.config
+D:\Documents\GitHub\DMXControl\Interface\bin\Debug\Interface.exe
+D:\Documents\GitHub\DMXControl\Interface\bin\Debug\Interface.pdb
+D:\Documents\GitHub\DMXControl\Interface\bin\Debug\Interface.xml
+D:\Documents\GitHub\DMXControl\Interface\obj\Debug\Interface.MainForm.resources
+D:\Documents\GitHub\DMXControl\Interface\obj\Debug\Interface.Resources.resources
+D:\Documents\GitHub\DMXControl\Interface\obj\Debug\Interface.FaderControl.resources
+D:\Documents\GitHub\DMXControl\Interface\obj\Debug\DMXInterface.vbproj.GenerateResource.Cache
+D:\Documents\GitHub\DMXControl\Interface\obj\Debug\Interface.exe
+D:\Documents\GitHub\DMXControl\Interface\obj\Debug\Interface.xml
+D:\Documents\GitHub\DMXControl\Interface\obj\Debug\Interface.pdb
+D:\Documents\GitHub\DMXControl\Interface\obj\Debug\Interface.LuikControl.resources
